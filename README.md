@@ -67,22 +67,23 @@ Page No: 4
 Page No: 5
 
 - **Total Return (in %):** ((Final value of capital / Initial capital) - 1) * 100
-- **Total Return (in amount):** \[\(\text{Final value of capital} - \text{Initial Capital}\)\]
-- **Sharpe Ratio:** \[\frac{R_s - R_f}{\sigma_s}\]
-  - Rs = Return of strategy
-  - Rf = Risk free rate
-  - σs = Standard deviation of return (risk)
-- **Average Profit:** \[\frac{\text{Total Profit} - \text{Total Loss}}{\text{Total number of trades}}\]
-- **Average Bars Held:** \[\frac{\text{Sum of Bars Held for All Trades}}{\text{Total number of trades}}\]
+- **Total Return (in amount):** (Final value of capital - Initial Capital)
+- **Sharpe Ratio:** (R_s - R_f) / σ_s
+  - R_s = Return of strategy
+  - R_f = Risk free rate
+  - σ_s = Standard deviation of return (risk)
+- **Average Profit:** (Total Profit - Total Loss) / Total number of trades
+- **Average Bars Held:** (Sum of Bars Held for All Trades) / Total number of trades
 - **Max. System Drawdown (MXDD):** From equity Curve
-- **MXDD%:** \[\frac{\text{Max. System Drawdown}}{\text{Peak Equity}} * 100\]
-- **Gross Recovery Factor:** \[\frac{\text{Net Profit}}{\text{Max. System Drawdown}}\]
-- **CAR/MXDD%:** \[\frac{\text{Compounded annual % return}}{\text{MS% Drawdown}}\]
-- **RAR/MXDD:** \[\frac{\text{Sharpe Ratio - Rf}}{\text{MXDD}}\]
-- **Profit Factor (PF):** \[\frac{\text{Total Profit}}{\text{Total Loss}}\]
-- **Payoff Ratio (PR):** \[\frac{\text{Avg. Profit per Winning Trade}}{\text{Avg. Loss per Losing Trade}}\]
-- **Standard Error (Std.E):** \[\frac{\text{Standard Deviation of equity curve}}{\sqrt{\text{Number of trades}}}\]
-- **Annualized Return:** \[\sqrt{n}\left(\frac{\text{Ending Value}}{\text{Initial Capital}}\right)\]
+- **MXDD%:** (Max. System Drawdown / Peak Equity) * 100
+- **Gross Recovery Factor:** Net Profit / Max. System Drawdown
+- **CAR/MXDD%:** (Compounded annual % return) / (MS% Drawdown)
+- **RAR/MXDD:** (Sharpe Ratio - Rf) / MXDD
+- **Profit Factor (PF):** Total Profit / Total Loss
+- **Payoff Ratio (PR):** Avg. Profit per Winning Trade / Avg. Loss per Losing Trade
+- **Standard Error (Std.E):** Standard Deviation of equity curve / sqrt(Number of trades)
+
+- **Annualized Return:** sqrt(n) * (Ending Value / Initial Capital)
 
 ---
 
