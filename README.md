@@ -66,7 +66,7 @@ Page No: 4
 ## Key Performance Metrics Used
 Page No: 5
 
-- **Total Return (in %):** \[\(\frac{\text{Final value of capital}}{\text{Initial capital}} - 1\) * 100\]
+- **Total Return (in %):** ((Final value of capital / Initial capital) - 1) * 100
 - **Total Return (in amount):** \[\(\text{Final value of capital} - \text{Initial Capital}\)\]
 - **Sharpe Ratio:** \[\frac{R_s - R_f}{\sigma_s}\]
   - Rs = Return of strategy
