@@ -1,6 +1,6 @@
 # backtesting_report
 ## Please note that on the last page pdf of the backtesting report; the tester (me) claims to have 3 years of experience. The statement is false. Even though I have done backtesting for the 3 years as # # student project not as a profession as a hobby of learning programming language algo. (It was a part of my affirmation I used to practice and the template I used for the client was the same template I built during my learning stage)
-Certainly! Below is a README file formatted for a GitHub repository, based on the provided context.
+
 
 ---
 
