@@ -162,9 +162,7 @@ Page No: 11
 
 ---
 
-**Back-tester Name:** Souman Jyoti (3 years of experience in back-testing)
 
-**Contact:** 9834485979 (WhatsApp Only)
 
 ---
 
